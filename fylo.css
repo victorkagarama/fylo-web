@@ -1,0 +1,55 @@
+    body{
+        font-family: 'Open sans', sans-serif;
+        font-weight: 400;
+    }
+    h1{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 2.08rem;
+        
+    }
+    button{
+        font-family: 'Raleway';
+    }
+    #navLinks li a{
+        color: #070439;
+        font-family: 'Raleway', sans-serif;
+    }
+   
+    
+    #productive{
+        background: #F8F8F8;
+    }
+    #productive a{
+        color: #3C9F8F;
+        
+        
+    }
+    /*#testimonials{
+        box-shadow: 5px 5px 5px 5px #888888;
+    }*/
+    #newsletter{
+        background: #585989;
+        color: white;
+    }
+   
+    #bottom-footer{
+        background: #070439;
+        
+    }
+    #bottom-footer a{
+        color: white;
+        text-decoration: none;
+        font-family: 'open sans', sans-serif;
+        
+    }
+    #foot-logo{
+        margin-top: 50px;
+    }
+    #social-media ul{ 
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+          
+    }
+
